@@ -14,4 +14,4 @@ Key Highlights:
 6.Retrieval of critical business insights, such as total customers, product sub-category sales contributions, top products by profit, and territory-wise sales.
 
 7.These steps collectively demonstrate database management, data transformation, and the execution of analytical queries to extract meaningful insights from the Adventure Works dataset.
- SQL link https://drive.google.com/file/d/1KM0n-hDGj5Zr7S2Wer8HF_iwhxDHXdoB/view?usp=sharing
+ SQL link https://github.com/vakkalagaddasindhu/UNP-project_sql-with-sql_HR/edit/main/README.md
