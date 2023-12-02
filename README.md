@@ -15,3 +15,4 @@ Key Highlights:
 
 7.These steps collectively demonstrate database management, data transformation, and the execution of analytical queries to extract meaningful insights from the Adventure Works dataset.
  SQL link https://github.com/vakkalagaddasindhu/UNP-project_sql-with-sql_HR/edit/main/README.md
+SQL pdf link https://drive.google.com/file/d/1Jk1QE751CBV_v_QI2S-Hzq-KMIEh_lAN/view?usp=sharing
